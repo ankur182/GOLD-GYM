@@ -6,13 +6,21 @@ Welcome to the Gold's Gym Website project! This project aims to provide an engag
 
 Features
 Hero Banner: A visually appealing hero section with a motivational tagline and a call-to-action button to explore exercises.
+
 Carousel: A carousel feature to easily select and browse through various exercises.
+
 Search Bar: A search functionality to find specific exercises quickly.
+
 Dynamic GIFs: Interactive GIFs to learn and practice workouts dynamically.
+
 Detailed Exercise Pages: Clicking on any exercise will navigate to a dedicated page providing comprehensive information about that exercise, including suggested YouTube videos.
+
 Event Categories: Integration of 8 toggleable event categories (All, War, Art, Science, Sports, Politics, Religion, Others) for personalized event exploration.
+
 Dynamic Light/Dark Mode: A feature allowing users to switch between light and dark themes for a better browsing experience.
+
 Footer Messages: A customized footer with three distinct messages providing additional information and motivation.
+
 Technologies Used
 React: A JavaScript library for building user interfaces.
 Material-UI (MUI): A popular React UI framework for implementing responsive and aesthetically pleasing components.
@@ -26,27 +34,6 @@ To run this project locally, follow these steps:
 (![Screenshot 2024-07-15 005021](https://github.com/user-attachments/assets/6974c074-4cc8-4157-95aa-9d796c55933a)
 
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/golds-gym-website.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd golds-gym-website
-Install the dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Open your browser and go to http://localhost:3000 to view the website.
 
 Usage
 Browse through different sections of the website to explore the features.
